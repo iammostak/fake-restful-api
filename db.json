@@ -12,5 +12,7 @@
     }
   ],
   "hospitals": [],
-  "doctors": []
+  "doctors": [],
+  "todos": [],
+  "products": []
 }
