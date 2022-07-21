@@ -286,5 +286,55 @@
       "genre1": "suspense",
       "genre2": "Thriller"
     }
+  ],
+  "zeeOriginalWebSeries": [
+    {
+      "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-4z5172356/portrait/1920x7705a2073dc89d04da2926dbcd3886785aaa974ce344e704cabb3b0556de80eaa7b.jpg",
+      "popupTitle": "Saas Bahu Achaar Pvt. Ltd."
+    },
+    {
+      "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-4z5145215/portrait/1920x770abf42130d9cf41dab2bf9e648cf3193b0b8736722f40431bb31a5214ab98851c.jpg",
+      "popupTitle": "The Broken News"
+    },
+    {
+      "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-4z5173774/portrait/1920x7708830a8a4737c4a05ae1c0df6201026b4d90c01692d7e44458802840dbff3589e.jpg",
+      "popupTitle": "Rangbaaz: Darr Ki Rajneeti"
+    },
+    {
+      "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-1298/portrait/1920x770d9ead07e5b304a989d85cf8c6e0113fb.jpg",
+      "popupTitle": "Abhay"
+    },
+    {
+      "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-4z587408/portrait/1920x770195db875fe204fa4afe115764b5dc00ba004028948aa4211b107faed649301d7.jpg",
+      "popupTitle": "Mithya"
+    },
+    {
+      "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-4z596111/portrait/1920x7709fcbdd4c78184b51aadd7e2e34396dbf.jpg",
+      "popupTitle": "Bloody Brothers"
+    },
+    {
+      "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-3064/portrait/1920x770f6f1d5315e9145808275b6b69e6572f7.jpg",
+      "popupTitle": "Bicchoo Ka Khel"
+    },
+    {
+      "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-4z560880/portrait/1920x77049b3662989f0475198d1963a5d256ebc.jpg",
+      "popupTitle": "Kaun Banegi Shikharwati"
+    },
+    {
+      "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-3502/portrait/1920x77096c3c9d32c6946bb933bef0e7463b7af.jpg",
+      "popupTitle": "Pavitra Rishta 2.0 – It’s Never Too Late"
+    },
+    {
+      "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-4z5130773/portrait/1920x7708e0b2f3ad3bb45b8be8b3073d20fb1aa.jpg",
+      "popupTitle": "Anantham"
+    },
+    {
+      "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-3044/portrait/063044incover98740071191a4d21bb818ea29d68541e.jpg",
+      "popupTitle": "Taish"
+    },
+    {
+      "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-2356/portrait/1920x770ffdfc616c75840cf95545cd67e3476d6e2fb2ce4623c4ebaa29b36ba97edf983.jpg",
+      "popupTitle": "Never Kiss Your Best Friend"
+    }
   ]
 }
