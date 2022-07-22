@@ -549,38 +549,6 @@
       "duration": "2h 16m",
       "genre1": "Mystery",
       "genre2": "Thriller"
-    },
-    {
-      "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-72675/portrait/0072675incover4375754eac494a7ba621731edc6a1ffc.jpg",
-      "popupTitle": "Anandi Gopal",
-      "audioLangString": "Marathi",
-      "duration": "2h 8m",
-      "genre1": "Drama",
-      "genre2": "Biopic"
-    },
-    {
-      "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z513117/portrait/1920x770478c174d17894ab79a63d72e6b02a830d72d7d1a03fc4037a8b321b5519c5a8e.jpg",
-      "popupTitle": "Rashmi Rocket",
-      "audioLangString": "Hindi",
-      "duration": "2h 9m",
-      "genre1": "Sports",
-      "genre2": "Drama"
-    },
-    {
-      "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-0-1z5114100/portrait/1920x770802174e746184d1b979d992917dc76ba.jpg",
-      "popupTitle": "Vijeta",
-      "audioLangString": "Marathi",
-      "duration": "2h 9m",
-      "genre1": "Drama",
-      "genre2": "Sports"
-    },
-    {
-      "url": "https://akamaividz2.zee5.com/image/upload/w_195,h_293,c_scale,f_webp,q_auto:eco/resources/0-6-2370/portrait/1920x770110fc27af01245fe87dd991bdf8ee49e.jpg",
-      "popupTitle": "State of Siege: 26/11",
-      "audioLangString": "",
-      "duration": "",
-      "genre1": "",
-      "genre2": ""
     }
   ]
 }
