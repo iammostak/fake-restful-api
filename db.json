@@ -3,7 +3,12 @@
   "hospitals": [],
   "doctors": [],
   "products": [],
-  "userCredentials": [],
+  "userCredentials": [
+    {
+      "email": "iammostak@yahoo.com",
+      "password": "Md@243"
+    }
+  ],
   "zeeSlide": [
     {
       "url": "https://akamaividz2.zee5.com/image/upload/w_480,h_270,c_scale,f_webp,q_auto:eco/resources/0-0-1z5177236/app_cover/1170x658withlogo18c83c8966e34adb8808e1e5afbebb9c.jpg",
